@@ -1,0 +1,1 @@
+--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "C:\Keil_v5\ARM\CMSIS\Include" -I "C:\Keil_v5\ARM\INC\Philips" --list "EXAMPLE2.lst" --xref -o "EXAMPLE2.o" --depend "EXAMPLE2.d" "EXAMPLE2.S"

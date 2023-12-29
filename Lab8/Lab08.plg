@@ -1,0 +1,820 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\200907472\Lab08\Lab08.uvproj
+Project File Date:  09/27/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Example01.s(9): error: A1106E: Missing comma
+Example01.s(18): error: A1150E: Bad symbol, not defined or external
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Example01.s(9): error: A1150E: Bad symbol, not defined or external
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+Example01.s(9): error: A1516E: Bad symbol 'IO1DIR', not defined or external
+Example01.s(12): error: A1516E: Bad symbol 'PINSEL0', not defined or external
+Example01.s(15): error: A1516E: Bad symbol 'EXTMODE', not defined or external
+Example01.s(18): error: A1516E: Bad symbol 'EXTPOLAR', not defined or external
+Example01.s(21): error: A1516E: Bad symbol 'VICVectCnt10', not defined or external
+Example01.s(24): error: A1516E: Bad symbol 'VICVectAddr0', not defined or external
+Example01.s(25): error: A1516E: Bad symbol 'IRQ_EInt1', not defined or external
+Example01.s(27): error: A1516E: Bad symbol 'VICIntEnable', not defined or external
+Example01.s(33): error: A1516E: Bad symbol 'EXTINT', not defined or external
+Example01.s(38): error: A1516E: Bad symbol 'IO1PIN', not defined or external
+Example01.s(42): error: A1516E: Bad symbol 'VICVectAddr', not defined or external
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+VICVPB.S(92): error: A1163E: Unknown opcode VPB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(95): error: A1163E: Unknown opcode Power , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(99): error: A1163E: Unknown opcode External , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(105): error: A1163E: Unknown opcode Reset , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(108): error: A1163E: Unknown opcode Code , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(111): error: A1163E: Unknown opcode System , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(114): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(133): error: A1163E: Unknown opcode Timer , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(152): error: A1163E: Unknown opcode Pulse , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(169): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(186): error: A1163E: Unknown opcode Universal , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(212): error: A1163E: Unknown opcode I2C , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(221): error: A1163E: Unknown opcode SPI0 , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(228): error: A1163E: Unknown opcode SSP , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(239): error: A1163E: Unknown opcode Real , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(267): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(281): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(295): error: A1163E: Unknown opcode A/D , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(298): error: A1163E: Unknown opcode D/A , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(301): error: A1163E: Unknown opcode Watchdog , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+VICVPB.S(307): error: A1163E: Unknown opcode USB , expecting opcode or Macro
+   included by GET/INCLUDE directive from (1): warning: 
+   included by GET/INCLUDE directive from : 
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+Example01.s(21): error: A1516E: Bad symbol 'VICVectCnt10', not defined or external
+Example01.s(25): error: A1516E: Bad symbol 'IRQ_EInt1', not defined or external
+Target not created
+Build target 'Target 1'
+assembling Example01.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+assembling Example01.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling Example01.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling EXAMPLE2.S...
+EXAMPLE2.S(19): error: A1150E: Bad symbol, not defined or external
+EXAMPLE2.S(22): error: A1150E: Bad symbol, not defined or external
+EXAMPLE2.S(47): error: A1106E: Missing comma
+Target not created
+Build target 'Target 1'
+assembling EXAMPLE2.S...
+EXAMPLE2.S(19): error: A1150E: Bad symbol, not defined or external
+Target not created
+Build target 'Target 1'
+assembling EXAMPLE2.S...
+EXAMPLE2.S(16): error: A1516E: Bad symbol 'VICVectCnt10', not defined or external
+Target not created
+Build target 'Target 1'
+assembling EXAMPLE2.S...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=492 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling EXAMPLE3.S...
+EXAMPLE3.S(12): error: A1516E: Bad symbol 'U0CLR', not defined or external
+EXAMPLE3.S(21): error: A1516E: Bad symbol 'U0CLR', not defined or external
+EXAMPLE3.S(27): error: A1516E: Bad symbol 'VICVectCnt10', not defined or external
+Target not created
+Build target 'Target 1'
+assembling EXAMPLE3.S...
+EXAMPLE3.S(27): error: A1516E: Bad symbol 'VICVectCnt10', not defined or external
+Target not created
+Build target 'Target 1'
+assembling EXAMPLE3.S...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=492 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=492 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=492 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling exercise1.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling exercise1.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling exercise2.s...
+exercise2.s(43): error: A1163E: Unknown opcode DELAY1 , expecting opcode or Macro
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+assembling exercise2.s...
+exercise2.s(43): error: A1163E: Unknown opcode DELAY , expecting opcode or Macro
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+assembling exercise2.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=540 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+assembling exercise2.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=456 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling exercise2.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=528 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling exercise2.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=532 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling exercise2.s...
+linking...
+Lab08.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=524 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"Lab08.axf" - 0 Error(s), 1 Warning(s).

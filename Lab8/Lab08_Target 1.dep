@@ -1,0 +1,3 @@
+Dependencies for Project 'Lab08', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x633270AA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "C:\Keil_v5\ARM\CMSIS\Include" -I "C:\Keil_v5\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\exercise2.s)(0x63328C27)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "C:\Keil_v5\ARM\CMSIS\Include" -I "C:\Keil_v5\ARM\INC\Philips" --list "exercise2.lst" --xref -o "exercise2.o" --depend "exercise2.d")
