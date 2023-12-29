@@ -1,0 +1,8 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\example1.o"
+".\vicvpb-1.o"
+--library_type=microlib --strict --scatter ".\Example1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Example1.map" -o .\Example1.axf

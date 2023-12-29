@@ -1,0 +1,85 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000 E002C004 
+                       PINSEL1 EQU              0XE002C004
+    2 00000000 E006C000 
+                       DACR    EQU              0XE006C000
+    3 00000000                 AREA             CHANG, CODE, READONLY
+    4 00000000                 EXPORT           __main
+    5 00000000         __main
+    6 00000000                 ENTRY
+    7 00000000 E59F0018        LDR              R0,=PINSEL1
+    8 00000004 E59F1018        LDR              R1,=DACR
+    9 00000008 E3A02702        LDR              R2,=0X00080000
+   10 0000000C E5802000        STR              R2,[R0]
+   11 00000010 E1A04303 
+                       BACK    MOV              R4,R3,LSL#6
+   12 00000014 E5814000        STR              R4,[R1]
+   13 00000018 E2833001        ADD              R3,R3,#1
+   14 0000001C EAFFFFFB        B                BACK
+   15 00000020                 END
+              E002C004 
+              E006C000 
+Command Line: --debug --xref --apcs=interwork --depend=.\example2.d -o.\example
+2.o -IC:\Keil\ARM\RV31\INC -IC:\Keil\ARM\CMSIS\Include -IC:\Keil\ARM\Inc\Philip
+s --predefine="__EVAL SETA 1" --predefine="__MICROLIB SETA 1" --list=.\example2
+.lst Example2.asm
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+BACK 00000010
+
+Symbol: BACK
+   Definitions
+      At line 11 in file Example2.asm
+   Uses
+      At line 14 in file Example2.asm
+Comment: BACK used once
+CHANG 00000000
+
+Symbol: CHANG
+   Definitions
+      At line 3 in file Example2.asm
+   Uses
+      None
+Comment: CHANG unused
+__main 00000000
+
+Symbol: __main
+   Definitions
+      At line 5 in file Example2.asm
+   Uses
+      At line 4 in file Example2.asm
+Comment: __main used once
+3 symbols
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Absolute symbols
+
+DACR E006C000
+
+Symbol: DACR
+   Definitions
+      At line 2 in file Example2.asm
+   Uses
+      At line 8 in file Example2.asm
+Comment: DACR used once
+PINSEL1 E002C004
+
+Symbol: PINSEL1
+   Definitions
+      At line 1 in file Example2.asm
+   Uses
+      At line 7 in file Example2.asm
+Comment: PINSEL1 used once
+2 symbols
+339 symbols in table
