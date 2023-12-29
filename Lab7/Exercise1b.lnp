@@ -1,0 +1,8 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\exercise1b.o"
+".\vicvpb-1.o"
+--library_type=microlib --strict --scatter ".\Exercise1b.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Exercise1b.map" -o .\Exercise1b.axf
